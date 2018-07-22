@@ -1,6 +1,6 @@
 {
   "name": "321_Lancamento",
-  "app_id": "",
+  "app_id": "3f131bc6",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
